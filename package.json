@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "contentful": "^3.0.7",
+    "express": "^4.13.4",
     "watch": "^0.17.1",
     "webpack": "^1.12.14"
   },
