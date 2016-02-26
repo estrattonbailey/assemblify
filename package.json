@@ -1,0 +1,17 @@
+{
+  "name": "assemblify",
+  "version": "0.0.1",
+  "description": "Assemble + Contentful, run from a Node.js server.",
+  "main": "index.js",
+  "dependencies": {
+    "contentful": "^3.0.7",
+    "watch": "^0.17.1",
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "estrattonbailey",
+  "license": "ISC"
+}
